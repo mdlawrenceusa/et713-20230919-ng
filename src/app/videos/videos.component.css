@@ -1,0 +1,17 @@
+.video-card {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.video-card h4 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.video-card p {
+  font-size: 14px;
+  color: #777;
+}
